@@ -1,0 +1,13 @@
+﻿@{
+    Layout = "~/Views/Shared/MasterTemplate.cshtml";
+    var name = Session["username"];
+}
+
+<div class="container"  style="margin-top: 150px">
+    <div class="rowcol-md-6 col-md-offset-3">
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="https://jooinn.com/images1280_/online-banking.jpg" width="600" height="400">
+        </div>
+        <h3 style="margin-left: 150px">Welcome @name</h3>
+    </div>
+</div>

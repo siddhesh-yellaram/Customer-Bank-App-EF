@@ -1,0 +1,6 @@
+D:\test\MVC\Entity Framework\CustomerBankApp\BankLib\bin\Debug\BankLib.dll
+D:\test\MVC\Entity Framework\CustomerBankApp\BankLib\bin\Debug\BankLib.pdb
+D:\test\MVC\Entity Framework\CustomerBankApp\BankLib\obj\Debug\BankLib.csproj.AssemblyReference.cache
+D:\test\MVC\Entity Framework\CustomerBankApp\BankLib\obj\Debug\BankLib.csproj.CoreCompileInputs.cache
+D:\test\MVC\Entity Framework\CustomerBankApp\BankLib\obj\Debug\BankLib.dll
+D:\test\MVC\Entity Framework\CustomerBankApp\BankLib\obj\Debug\BankLib.pdb
